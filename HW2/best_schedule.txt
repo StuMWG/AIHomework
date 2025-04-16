@@ -1,0 +1,13 @@
+Best schedule found, fitness = 10.400:
+
+SLA100A: time=10 AM, room=Beach 301, facilitator=Banks
+SLA100B: time=2 PM, room=Roman 201, facilitator=Zeldin
+SLA191A: time=11 AM, room=Frank 119, facilitator=Lock
+SLA191B: time=12 PM, room=Frank 119, facilitator=Banks
+SLA201: time=3 PM, room=Loft 206, facilitator=Banks
+SLA291: time=3 PM, room=Roman 201, facilitator=Lock
+SLA303: time=1 PM, room=Loft 310, facilitator=Lock
+SLA304: time=11 AM, room=Beach 301, facilitator=Zeldin
+SLA394: time=3 PM, room=Beach 201, facilitator=Zeldin
+SLA449: time=10 AM, room=Loft 206, facilitator=Tyler
+SLA451: time=12 PM, room=Loft 310, facilitator=Tyler
